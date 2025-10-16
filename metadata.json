@@ -1,0 +1,5 @@
+{
+  "name": "Bao Viet Premium Calculator",
+  "description": "An application to quickly calculate insurance premiums for Bao Viet plans (An Gia, Tam Binh) based on family members' ages and selected coverage options.",
+  "requestFramePermissions": []
+}
